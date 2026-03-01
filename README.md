@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=richardgnwan&label=Profile%20views&color=0e75b6&style=flat" alt="richardgnwan" /> </p>
 
 - 📤️ How to reach me **richardgunawan26@gmail.com**
-- 💻️ All of my projects are available at [https://richardgunawan.dev](richardgunawan.dev)
+- 💻️ All of my projects are available at [richardgunawan.dev](https://richardgunawan.dev)
 
 
 <h3 align="left">Connect with me:</h3>
